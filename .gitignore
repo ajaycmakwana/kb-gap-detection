@@ -1,0 +1,17 @@
+# Credentials — never commit
+.env
+
+# Generated data files
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
